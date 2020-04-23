@@ -2,9 +2,6 @@ def join_nested_strings(src)
   full_string = []
 
   src.each do | i |
-    # puts i
-    # i.each do | x |
-      # puts x
       i.each do |is_string|
         if is_string.class == String
           full_string << is_string
