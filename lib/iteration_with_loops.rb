@@ -7,7 +7,6 @@ def join_nested_strings(src)
           full_string << is_string
           
         end
-        # puts is_string.class
       end
     # if i.class == String
     # 
