@@ -8,12 +8,6 @@ def join_nested_strings(src)
           
         end
       end
-    # if i.class == String
-    # 
-
-      # puts full_string
-    # end
-    # combine.join(" ")
   end
   
   return full_string.join(" ")
